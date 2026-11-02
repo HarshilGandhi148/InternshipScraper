@@ -24,7 +24,7 @@ Build a Java program that periodically pull internship listings from this GitHub
 ## Roadmap
 
 - Run using GitHub Actions so it works even when computer is off
-- Extra filters such as location, graduation data restrictions, and sponsorship needed
+- Extra filters such as location, graduation date restrictions, and sponsorship needed
 - Merge multiple listings in one notification
 
 
